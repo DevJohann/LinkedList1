@@ -9,5 +9,8 @@
         <module name="LinkedList1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LinkedList1" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
